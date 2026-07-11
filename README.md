@@ -10,6 +10,7 @@ and concrete recommendations to improve their odds.
 Built as a portfolio-grade demonstration of ML engineering, explainable
 AI, REST API design, and modern full-stack development.
 
+Url: https://loan-sense-ai-6qbm-rgec7vi2p-hackathons-projects-b68d0165.vercel.app
 ---
 
 ## Features
