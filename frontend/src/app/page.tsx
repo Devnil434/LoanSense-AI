@@ -66,7 +66,7 @@ export default function LandingPage() {
       {/* Features */}
       <section className="mx-auto max-w-6xl px-6 pb-24">
         <div className="mb-10 max-w-xl">
-          <span className="label-eyebrow">What's under the hood</span>
+          <span className="label-eyebrow">What&apos;s under the hood</span>
           <h2 className="mt-3 text-2xl font-semibold text-mist-50 sm:text-3xl">
             Four systems, one decision.
           </h2>
